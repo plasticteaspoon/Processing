@@ -16,4 +16,5 @@ void draw()
     
     //draw the peices
     pile.render();
+    pile.moveAcross();
 }

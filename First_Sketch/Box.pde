@@ -1,4 +1,4 @@
-
+          
 class Box 
 {
   float x, y;
