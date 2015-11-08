@@ -1,5 +1,6 @@
 //the deathly hallows 
-
+Hallows hallows;
+  
 void setup() 
 {
   
@@ -7,5 +8,5 @@ void setup()
 
 void draw() 
 {
-  Hallows.render();
+  hallows.render();
 }

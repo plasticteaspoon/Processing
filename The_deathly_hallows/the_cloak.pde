@@ -1,6 +1,6 @@
 //the cloak class
 
-class Cloak() 
+class Cloak
 {
       public void render() 
   {

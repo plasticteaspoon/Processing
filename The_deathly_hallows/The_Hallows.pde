@@ -1,12 +1,15 @@
 //the deathly hallows class
 
-class Hallows()
+class Hallows
 {
+  Stone stone;
+  Cloak cloak;
+  Wand wand;
   public void render() 
   {
-     Stone.render();
-     Cloak.render();
-     Wand.render();
+     stone.render();
+     cloak.render();
+     wand.render();
   }
   
   

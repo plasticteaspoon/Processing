@@ -1,6 +1,6 @@
 //the stone class
 
-class Stone() 
+class Stone
 {
   public void render() 
   {

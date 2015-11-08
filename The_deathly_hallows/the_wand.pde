@@ -1,6 +1,6 @@
 //the wand class
 
-class Wand() 
+class Wand
 {
       public void render() 
   {
